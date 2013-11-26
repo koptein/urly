@@ -7,8 +7,8 @@ require 'pismo'
 
 bot = Cinch::Bot.new do
   configure do |c|
-    c.server   = "irc.freenode.net"
-    c.channels = ["#kopteintestchan","#kopteintestchan2"]
+    c.server   = "irc.example.com"
+    c.channels = ["#chan1","#chan2"]
     c.nick = "urly"
   end
 

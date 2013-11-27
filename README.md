@@ -1,6 +1,6 @@
 # urly
 
-urly is a small TinyURL IRC Bot that generates shortened links
+urly is a small TinyURL IRC Bot that generates shortened links.
 It's written in ruby and uses the cinch framework
 
 ## Installation
